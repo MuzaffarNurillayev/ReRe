@@ -1,0 +1,6 @@
+@ResumeSvc_HostAddress = http://localhost:5192
+
+GET {{ResumeSvc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
