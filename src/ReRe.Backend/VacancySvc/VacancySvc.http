@@ -1,0 +1,6 @@
+@VacancySvc_HostAddress = http://localhost:5250
+
+GET {{VacancySvc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
